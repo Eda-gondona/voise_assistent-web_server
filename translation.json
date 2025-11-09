@@ -1,0 +1,78 @@
+{
+    "Can you check if your microphone is on,please?": {
+        "ru": "Пожалуйста, проверьте включен ли ваш микрофон?",
+        "en": "Can you check if your microphone is on, please?"
+    },
+    "Seems like we have a trouble.See logs for more information": {
+        "ru": "Кажется, у нас проблемы. Подробности смотрите в логах.",
+        "en": "Seems like we have a trouble. See logs for more information"
+    },
+    "Goodbye,{}! Have a nice day!": {
+        "ru": "Пока, {}! Хорошего дня!",
+        "en": "Goodbye, {}! Have a nice day!"
+    },
+    "See you soon, {}!": {
+        "ru": "Увидимся, {}!",
+        "en": "See you soon, {}!"
+    },
+    "Hello, {}! How can I help you today?": {
+        "ru": "Привет, {}! Чем я могу помочь тебе сегодня?",
+        "en": "Hello, {}! How can I help you today?"
+    },
+    "Good day to you {}! How can I help you today?": {
+        "ru": "Добрый день, {}! Чем я могу помочь тебе сегодня?",
+        "en": "Good day to you {}! How can I help you today?"
+    },
+    "Here is what I found for {} on google": {
+        "ru": "Вот что я нашел для {} в гугле",
+        "en": "Here is what I found for {} on google"
+    },
+    "Here is what I found for {} on youtube": {
+        "ru": "Вот что я нашел для {} на youtube",
+        "en": "Here is what I found for {} on youtube"
+    },
+    "Here is what I found for {} on Wikipedia": {
+        "ru": "Вот что я нашел для {} в Википедии",
+        "en": "Here is what I found for {} on Wikipedia"
+    },
+    "Can't find {} on Wikipedia. But here is what I found on google": {
+        "ru": "Не могу найти {} в Википедии. Но вот что я нашел в гугле",
+        "en": "Can't find {} on Wikipedia. But here is what I found on google"
+    },
+    "It is {0} in {1}": {
+        "ru": "В {1} сейчас {0}",
+        "en": "It is {0} in {1}"
+    },
+    "The temperature is {} degrees Celsius": {
+        "ru": "Температура {} градусов по Цельсию",
+        "en": "The temperature is {} degrees Celsius"
+    },
+    "The wind speed is {} meters per second": {
+        "ru": "Скорость ветра {} метров в секунду",
+        "en": "The wind speed is {} meters per second"
+    },
+    "The pressure is {} mm Hg": {
+        "ru": "Давление {} миллиметров ртутного столба",
+        "en": "The pressure is {} mm Hg"
+    },
+    "Here is what I found for {} on social nets": {
+        "ru": "Вот что я нашел для {} в социальных сетях",
+        "en": "Here is what I found for {} on social nets"
+    },
+    "Heads": {
+        "ru": "Орлы",
+        "en": "Heads"
+    },
+    "Tails": {
+        "ru": "Решки",
+        "en": "Tails"
+    },
+    "won": {
+        "ru": "выиграли",
+        "en": "won"
+    },
+    "Seems like we have a trouble. See logs for more information": {
+        "ru": "Кажется, у нас проблемы. Подробности смотрите в логах.",
+        "en": "Seems like we have a trouble. See logs for more information"
+    }
+}
